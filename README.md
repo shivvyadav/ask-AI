@@ -1,12 +1,35 @@
-# React + Vite
+# 🤖 ask-AI (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight and fast React application built with Vite that serves as a frontend for an AI-powered question-and-answer or chat system. This project is designed to easily connect with any AI backend or API.
 
-Currently, two official plugins are available:
+## 🔗 Repository
+https://github.com/shivvyadav/ask-AI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Clean and minimal React frontend
+- Fast development and build using Vite
+- Ready for AI API integration
+- Lightweight and scalable structure
+- Easy to customize and extend
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- React
+- JavaScript
+- Vite
+- HTML
+- ESLint
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+
+Clone the repository:
+git clone https://github.com/shivvyadav/ask-AI.git  
+cd ask-AI
+
+Install dependencies:
+npm install
+
+Run the application:
+npm run dev
+
+## 📌 Usage
+Use this app as a frontend interface where users can submit questions or prompts. Connect it to an AI backend API to receive and display AI-generated responses.
